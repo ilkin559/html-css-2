@@ -1,0 +1,135 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: 'Sansita Swashed', cursive;
+   
+}
+.clear{
+    clear: both;
+}
+
+.find{
+background: url(photo/bg-masthead.jpg);
+ height: 100vh;
+background-size: cover;
+text-align: center;
+padding-top: 300px;
+
+}
+.find h1{
+    font-size: 5em;
+}
+.find p{
+    font-style: italic;
+    font-size: 2em;
+    font-weight: bold;
+     margin-bottom: 35px;
+}
+.mybtn1{
+     padding: 20px 40px;
+     background: #155D74;
+     color: white;
+     border: none;
+     display: block;
+     width: 200px;
+     border-radius: 10px;
+     text-decoration: none;
+     margin: 20px auto;
+     
+   
+}  
+.mybtn1 :hover{
+    background: #0a3341;
+}
+.offer .mybtn2{
+    background: #23272B;
+    color: white;
+} 
+.offer .mybtn2 :hover{
+    background: #23272B;
+
+}
+.box{
+    background: url(photo/bg-callout.jpg);
+    height: 100vh;
+    background-size: cover;
+    text-align: center;
+    padding: 250px;
+    margin-bottom: 60px;
+    margin: 55px 0;
+    
+}
+.box h1{
+    font-size: 4em;
+    color: black;
+}
+.box p{
+    font-size: 3em;
+    margin-bottom: 50px;
+    color: black;
+}
+.box1{
+    padding: 20px 40px;
+     background: #155D74;
+     color:black;
+     border: none;
+     display: block;
+     width: 200px;
+     border-radius: 10px;
+     text-decoration: none;
+     margin: 20px auto;
+}
+
+
+
+
+
+
+
+.offer{
+    padding: 8em 0;
+    text-align: center;
+}
+.offer p{
+    margin: 15px 0px;
+}
+.service{
+background: #1D809F;
+text-align: center;
+padding: 8em 0;
+color: white;
+}
+.service .service-header span{
+    color: gold;
+    font-size: 1.5em;
+}
+.service .service-header{
+    margin-bottom: 40px;
+}
+.service .service-header h2{
+    font-size: 3em;
+}
+.service .service-middle .service-item{
+   float: left;
+   width: 25%;
+}
+.service .service-middle .service-item i{
+    background: white;
+    color: #1D809F;
+    padding: 30px;
+    margin-bottom: 20px;
+    border-radius: 50%;
+
+}
+.service .service-middle .service-item h2{
+    margin-bottom: 15px;
+}
+.clear{
+    padding: 20px 0;
+    
+}
+
+
+
+
